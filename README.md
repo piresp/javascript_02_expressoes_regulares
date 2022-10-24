@@ -1,5 +1,8 @@
 # javascript_02_regex  
 Curso Alura: "Expressões regulares: capturando textos de forma mágica"  
+
+Qualquer valor: .
+Para Capturar valor literal: \
   
 ### Exercicio 1:    
 15.123.321/8883-22  
