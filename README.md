@@ -1,9 +1,10 @@
 # javascript_02_regex  
 Curso Alura: "Expressões regulares: capturando textos de forma mágica"  
-
-Qualquer valor (Meta-char): .  
-Quantificador, zero, uma ou mais vezes: *  
-Para Escapar valor literal: \  
+  
+Qualquer valor (Meta-char): <b>.</b>  
+Quantificador, zero, uma ou mais vezes: <b>*</b>  
+Para Escapar valor literal: <b>\</b>  
+Opcional (aparece ou não): <b>?</b>  
   
 ### Exercicio 1:    
 15.123.321/8883-22  
