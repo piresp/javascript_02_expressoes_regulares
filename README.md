@@ -1,2 +1,2 @@
-# javascript_02_expressoes_regulares
+# javascript_02_regex
 Curso Alura: "Expressões regulares: capturando textos de forma mágica"
