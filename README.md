@@ -25,5 +25,5 @@ João Fulano,123.456.789-00,21 de Maio de 1993,(21) 3079-9987,Rua do Ouvidor,50,
 \(\d{2}\).\d{4}\-\d{4}  
   
 ### Exercicio 5 - Procurando  &lt;code&gt; e &lt;/code&gt;:  
-No <code>for</code>, o valor de <code>i</code> começa de zero e é incrementado a cada volta enquanto <code>i < 10</code>  
+No &lt;code&gt;for&lt;/code&gt;, o valor de &lt;code&gt;i&lt;/code&gt; começa de zero e é incrementado a cada volta enquanto &lt;code&gt;i < 10&lt;/code&gt;  
 </?code>  
