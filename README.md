@@ -23,3 +23,7 @@ João Fulano,123.456.789-00,21 de Maio de 1993,(21) 3079-9987,Rua do Ouvidor,50,
 ### Exercicio 4 - Telefone:  
 (21) 3216-2345  
 \(\d{2}\).\d{4}\-\d{4}  
+  
+### Exercicio 5 - Procurando <code> e </code>:  
+No <code>for</code>, o valor de <code>i</code> começa de zero e é incrementado a cada volta enquanto <code>i < 10</code>  
+</?code>  
