@@ -8,6 +8,7 @@ Opcional (aparece ou não): **" ? "**
 Numero de aparições (0 ou 1 vezes): **" {0,1} "**  
 Classe de caracteres (. ou -): **" [.-] "**  
 White Space: **\s**  
+Um ou mais vezes: **+**  
   
 ### Exercicio 1:    
 15.123.321/8883-22  
